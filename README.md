@@ -8,7 +8,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'> -->
 
 # My Career
-| From | To | Role | At | Place
+| From | To | Role | At | Location
 |:------- |:--------|:----------------------------------------|:-----------------------------------------------------------------|:----------------|
 | Dec 2022 | Current | Machine Learning Engineer |[Fraunhofer IAIS](https://www.iais.fraunhofer.de/) | [Sankt Augustin, Germany](https://g.co/kgs/hxXM6rx)
 | April 2022 | Aug 2022 | Research Assistant |[DFKI](https://www.dfki.de/web/) | [Kaiserslautern, Germany](https://g.co/kgs/N6JHi2E)
