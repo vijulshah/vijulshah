@@ -16,6 +16,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 | Aug 2020 | Sept 2021 | Full Stack Developer |[Bonds India](https://www.bondsindia.com/) |
 | Aug 2016 | Aug 2020 | Bachelors in Computer Engineering |[LDRP-ITR](https://www.ldrp.ac.in/) |
 
+
+## 💻 Work Stats
+
+<!-- ![vijulshah's Github stats](https://github-readme-stats.vercel.app/api?username=vijulshah&show_icons=true) -->
+![vijulshah's Github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=vijulshah&show_icons=true)
+<img src="https://github-profile-trophy.vercel.app/?username=vijulshah">
+
 <!-- <br/> -->
 
 <!-- # SKILL SET
@@ -172,7 +179,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br/> -->
 
 <!-- # 🔗 Connect with me -->
-# Connect With Me
+## Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/vijul-shah-38a774168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijulshah-linkedin" height="30" width="40" /></a>
 <a href="https://x.com/vijul_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijulshah-x" height="30" width="40" /></a>
