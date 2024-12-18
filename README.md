@@ -3,7 +3,7 @@
 <h1 align="left">Hi there, I'm Vijul Shah <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<br />
+<!-- <br /> -->
 
 <!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'> -->
 
@@ -16,7 +16,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 | Aug 2020 | Sept 2021 | Full Stack Developer |[Bonds India](https://www.bondsindia.com/) |
 | Aug 2016 | Aug 2020 | Bachelors in Computer Engineering |[LDRP-ITR](https://www.ldrp.ac.in/) |
 
-<br/>
+<!-- <br/> -->
 
 <!-- # SKILL SET
 
