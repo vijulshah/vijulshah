@@ -10,11 +10,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 # My Career
 | From | To | Role | At | Place
 |:------- |:--------|:----------------------------------------|:-----------------------------------------------------------------|:----------------|
-| Dec 2022 | Current | Machine Learning Engineer |[Fraunhofer IAIS](https://www.iais.fraunhofer.de/) | Sankt Augustin, Germany
-| April 2022 | Aug 2022 | Research Assistant |[DFKI](https://www.dfki.de/web/) | Kaiserslautern, Germany
-| Oct 2021 | Nov 2024 | Masters in Computer Science |[RPTU](https://rptu.de/) | Kaiserslautern, Germany
-| Aug 2020 | Sept 2021 | Full Stack Developer |[Bonds India](https://www.bondsindia.com/) | New Delhi, India
-| Aug 2016 | Aug 2020 | Bachelors in Computer Engineering |[LDRP-ITR](https://www.ldrp.ac.in/) | Gandhinagar, India
+| Dec 2022 | Current | Machine Learning Engineer |[Fraunhofer IAIS](https://www.iais.fraunhofer.de/) | [Sankt Augustin, Germany](https://g.co/kgs/hxXM6rx)
+| April 2022 | Aug 2022 | Research Assistant |[DFKI](https://www.dfki.de/web/) | [Kaiserslautern, Germany](https://g.co/kgs/N6JHi2E)
+| Oct 2021 | Nov 2024 | Masters in Computer Science |[RPTU](https://rptu.de/) | [Kaiserslautern, Germany](https://g.co/kgs/N6JHi2E)
+| Aug 2020 | Sept 2021 | Full Stack Developer |[Bonds India](https://www.bondsindia.com/) | [New Delhi, India](https://g.co/kgs/kSk798v)
+| Aug 2016 | Aug 2020 | Bachelors in Computer Engineering |[LDRP-ITR](https://www.ldrp.ac.in/) | [Gandhinagar, India](https://g.co/kgs/8gc6rHm)
 
 
 ## 💻 Work Stats
