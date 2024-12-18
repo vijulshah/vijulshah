@@ -12,9 +12,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 |:------- |:--------|:----------------------------------------|:-----------------------------------------------------------------|
 | Dec 2022 | Current | Machine Learning Engineer |[Fraunhofer IAIS](https://www.iais.fraunhofer.de/) |
 | April 2022 | Aug 2022 | Research Assistant (Student Job - HiWi) |[DFKI](https://www.dfki.de/web/) |
-| Oct 2021 | Nov 2024 | Masters in Computer Science |[RPTU](https://rptu.de/) |
+| Oct 2021 | Nov 2024 | Masters in Computer Science (Student) |[RPTU](https://rptu.de/) |
 | Aug 2020 | Sept 2021 | Full Stack Developer |[Bonds India](https://www.bondsindia.com/) |
-| Aug 2016 | Aug 2020 | Bachelors in Computer Engineering |[LDRP-ITR](https://www.ldrp.ac.in/) |
+| Aug 2016 | Aug 2020 | Bachelors in Computer Engineering (Student) |[LDRP-ITR](https://www.ldrp.ac.in/) |
 
 
 ## 💻 Work Stats
