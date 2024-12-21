@@ -293,19 +293,55 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 ## 🏹 Domain Skills
 
 - **Computer Vision**: 
-  - Object Detection
-  - Image Segmentation
-  - Image Classification
-  - Regression
-  - Image Super Resolution
-  - Coreset Selection
-  - Dataset Distillation, and much more...
+<table>
+  <tr>
+    <td align="center" width="48">
+      Object Detection
+    </td>
+    <td align="center" width="48">
+      Image Segmentation
+    </td>
+    <td align="center" width="48">
+      Image Classification
+    </td>
+    <td align="center" width="48">
+      Regression Tasks
+    </td>
+    <td align="center" width="48">
+      Image Super Resolution
+    </td>
+    <td align="center" width="48">
+      Coreset Selection
+    </td>
+    <td align="center" width="48">
+      Dataset Distillation
+    </td>
+    <td align="center" width="48">
+      And More...
+    </td>
+  </tr>
+</table>
 
 - **NLP**: 
-  - PEFT (Parameter Efficient Fine Tuning)
-  - Q-LoRA (Quantization and Low Rank Apdaption)
-  - Text Classification
-  - Code Generation, and much more...
+  <table>
+  <tr>
+    <td align="center" width="200">
+      Parameter Efficient Fine Tuning (PEFT)
+    </td>
+    <td align="center" width="200">
+      Quantization and Low Rank Apdaption (Q-LoRA)
+    </td>
+    <td align="center" width="96">
+      Text Classification
+    </td>
+    <td align="center" width="96">
+      Code Generation
+    </td>
+    <td align="center" width="48">
+      And More...
+    </td>
+  </tr>
+  </table>
 
 ##  📊 Github Stats
 
