@@ -3,8 +3,8 @@
 <h1 align="left">Hi there, I'm Vijul Shah <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<div style="display: flex;">
-  <div style="font-size: 16px; text-align: justify;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; font-size: 16px; text-align: justify;">
   
   Hello, my name is Vijul Shah and I am a master's student at RPTU Kaiserslautern, specializing in Intelligent Systems & Data Visualization and Scientific Computing.
   Currently I'm working as a Machine Learning Engineer at Fraunhofer IAIS.<br>
@@ -29,13 +29,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     <a href="https://www.researchgate.net/profile/Vijul-Shah-2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="vijulshah-researchgate" height="25px" /></a>
     <a href="https://orcid.org/0009-0008-5174-0793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/orc-id.svg" alt="vijulshah-orc-id" height="25px" /></a>
   </p>
+  
+  </div>
+  <img src="./media/octocat.png" style="flex: 0 0 auto; background-color: none;" height="230px"/>
 </div>
-
-  <!-- <div style="flex: 0.25; text-align: right;"> -->
-  <img src="./media/octocat.png" align='right' style="background-color: none;"  height="230px"/>
-  <!-- </div> -->
-</div>
-
 
 <!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'> -->
 
