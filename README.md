@@ -27,7 +27,7 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
   </p>
 </div>
 
-<div style="flex: 0.5; text-align: right;">
+<div style="flex: 1; text-align: right;">
     <img src="./media/octocat.png" style="background-color: none;"  height="230px"/>
   </div>
 </div>
