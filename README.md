@@ -4,7 +4,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <div style="display: flex;">
-  <div style="flex: 0.5; font-size: 16px; text-align: justify">
+  <div style="flex: 0.75; font-size: 16px; text-align: justify">
   
   Hello, my name is Vijul Shah and I am a master's student at RPTU Kaiserslautern, specializing in Intelligent Systems & Data Visualization and Scientific Computing.
   Currently I'm working as a Machine Learning Engineer at Fraunhofer IAIS.<br>
