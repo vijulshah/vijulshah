@@ -3,21 +3,21 @@
 <h1 align="left">Hi there, I'm Vijul Shah <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<div style="font-size: 16px">
-Hello, my name is Vijul Shah and I am a master's student at RPTU Kaiserslautern, specializing in Intelligent Systems & Data Visualization and Scientific Computing.
-Currently I'm working as a Machine Learning Engineer at Fraunhofer IAIS.<br><br>
-
-With a background in Data Science, Deep Learning, and Full Stack Development, I possess a unique combination of Research and Software Engineering expertise. My passion lies in Research & Development and transforming it into engineering innovative solutions or products. Hence, I embody the skills and mindset of both an academic researcher and an engineer dedicated to developing robust industrial solutions.
-</div>
-<br>
-
 <div style="display: flex;">
-  <div style="flex: 1; font-size: 16px">
-    - 👉 Checkout my research: <a href="https://vijulshah.github.io/">HERE</a><br>
-    - 📫 How to reach me: <a href="mailto:vijul1904shah@gmail.com">vijul1904shah@gmail.com</a><br>
-    - 📝 Save my info: <a href="https://vijulshah.github.io/media/Vijul_Resume.pdf">Download Resume</a><br>
-    - ⚡ Fun fact: I love to paint 👨‍🎨 and I'm currently obsessed over cycling 🚴‍♂️<br>
-    - 💕 Like my Octocat? Create your own at <a href="https://myoctocat.com/">https://myoctocat.com/</a><br><br>
+  <div style="flex: 0.75; font-size: 16px; text-align: justify">
+  
+  Hello, my name is Vijul Shah and I am a master's student at RPTU Kaiserslautern, specializing in Intelligent Systems & Data Visualization and Scientific Computing.
+  Currently I'm working as a Machine Learning Engineer at Fraunhofer IAIS.<br>
+
+  With a background in Data Science, Deep Learning, and Full Stack Development, I possess a unique combination of Research and Software Engineering expertise. My passion lies in Research & Development and transforming it into engineering innovative solutions or products. Hence, I embody the skills and mindset of both an academic researcher and an engineer dedicated to developing robust industrial solutions.
+  
+
+  - 👉 Checkout my research: <a href="https://vijulshah.github.io/">HERE</a><br>
+  - 📫 How to reach me: <a href="mailto:vijul1904shah@gmail.com">vijul1904shah@gmail.com</a><br>
+  - 📝 Save my info: <a href="https://vijulshah.github.io/media/Vijul_Resume.pdf">Download Resume</a><br>
+  - ⚡ Fun fact: I love to paint 👨‍🎨 and I'm currently obsessed over cycling 🚴‍♂️<br>
+  - 💕 Like my Octocat? Create your own at <a href="https://myoctocat.com/">https://myoctocat.com/</a><br><br>
+  
   🔗 Connect With Me
   <p style="align: left">
     <a href="https://www.linkedin.com/in/vijul-shah-38a774168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijulshah-linkedin" height="25px" /></a>
@@ -27,7 +27,7 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
   </p>
 </div>
 
-<div style="flex: 1; text-align: right;">
+<div style="flex: 0.25; text-align: right;">
     <img src="./media/octocat.png" style="background-color: none;"  height="230px"/>
   </div>
 </div>
