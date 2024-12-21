@@ -4,7 +4,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <div style="display: flex;">
-  <div style="flex: 0.75; font-size: 16px; text-align: justify">
+  <div style="font-size: 16px; text-align: justify;>
   
   Hello, my name is Vijul Shah and I am a master's student at RPTU Kaiserslautern, specializing in Intelligent Systems & Data Visualization and Scientific Computing.
   Currently I'm working as a Machine Learning Engineer at Fraunhofer IAIS.<br>
@@ -24,14 +24,18 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     <a href="https://x.com/vijul_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijulshah-x" height="25px" /></a>
     <a href="https://www.kaggle.com/vijuls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijulshah-kaggle" height="25px" /></a>
     <a href="https://medium.com/@vijulshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vijulshah-medium" height="25px" /></a>
+    <a href="/vijul_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijulshah-instagram" height="25px" /></a>
+    <a href="https://scholar.google.com/citations?user=-1r-QeMAAAAJ&hl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/scholar-google.svg" alt="vijulshah-google-scholar" height="25px" /></a>
+    <a href="https://www.researchgate.net/profile/Vijul-Shah-2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="vijulshah-researchgate" height="25px" /></a>
+    <a href="https://orcid.org/0009-0008-5174-0793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/orc-id.svg" alt="vijulshah-orc-id" height="25px" /></a>
   </p>
 </div>
 
-<div style="flex: 0.25; text-align: right;">
-    <img src="./media/octocat.png" style="background-color: none;"  height="230px"/>
-  </div>
+  <!-- <div style="flex: 0.25; text-align: right;"> -->
+  <img src="./media/octocat.png" align='right' style="background-color: none;"  height="230px"/>
+  <!-- </div> -->
 </div>
-<!-- <br /> -->
+
 
 <!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'> -->
 
@@ -182,7 +186,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
       <a href="" target="_blank">
         <img src="./media/WnB.svg" alt="WnB" height="42px"/>
       </a>
-      <br>WnB
+      <br>Weights and Biases
     </td>
   </tr>
   <tr>
@@ -220,7 +224,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
       <a href="https://developer.android.com" target="_blank">
         <img src="./media/android.svg" alt="Android" height="42px"/>
       </a>
-      <br>Android
+      <br>Android Studio
     </td>
     <td align="center" width="96">
       <a href="" target="_blank">
