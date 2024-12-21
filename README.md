@@ -16,7 +16,72 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 - 💕 Like my Octocat? Create your own at <a href="https://myoctocat.com/">https://myoctocat.com/</a><br><br>
   
 🔗 Connect With Me
-<p style="align: left">
+<table>
+  <tr>
+    <td align="center" width="48">
+      <a href="https://www.linkedin.com/in/vijul-shah-38a774168/" target="_blank">
+        <img src="./media/linkedin.svg" alt="LinkedIn" height="30px"/>
+      </a>
+      <br>LinkedIn
+    </td>
+    <td align="center" width="48">
+      <a href="" target="_blank">
+        <img src="./media/x.svg" alt="X" height="30px"/>
+      </a>
+      <br>X
+    </td>
+    <td align="center" width="48">
+      <a href="" target="_blank">
+        <img src="./media/instagram.svg" alt="instagram" height="30px"/>
+      </a>
+      <br>Instagram
+    </td>
+    <td align="center" width="48">
+      <a href="" target="_blank">
+        <img src="./media/googlescholar.svg" alt="googlescholar" height="30px"/>
+      </a>
+      <br>Google Scholar
+    </td>
+    <td align="center" width="48">
+      <a href="" target="_blank">
+        <img src="./media/researchgate.svg" alt="researchgate" height="30px"/>
+      </a>
+      <br>Research Gate
+    </td>
+    <td align="center" width="48">
+      <a href="" target="_blank">
+        <img src="./media/orcid.svg" alt="orcid" height="30px"/>
+      </a>
+      <br>ORCID
+    </td>
+    <td align="center" width="48">
+      <a href="" target="_blank">
+        <img src="./media/github.svg" alt="github" height="30px"/>
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="48">
+      <a href="" target="_blank">
+        <img src="./media/medium.svg" alt="medium" height="30px"/>
+      </a>
+      <br>Medium
+    </td>
+    <td align="center" width="48">
+      <a href="" target="_blank">
+        <img src="./media/kaggle.svg" alt="kaggle" height="30px"/>
+      </a>
+      <br>Kaggle
+    </td>
+    <td align="center" width="48">
+      <a href="" target="_blank">
+        <img src="./media/huggingface.svg" alt="huggingface" height="30px"/>
+      </a>
+      <br>Hugging Face
+    </td>
+  </tr>
+</table>
+
+<!-- <p style="align: left">
   <a href="https://www.linkedin.com/in/vijul-shah-38a774168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijulshah-linkedin" height="25px" /></a>
   <a href="https://x.com/vijul_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijulshah-x" height="25px" /></a>
   <a href="https://www.kaggle.com/vijuls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijulshah-kaggle" height="25px" /></a>
@@ -25,7 +90,7 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
   <a href="https://scholar.google.com/citations?user=-1r-QeMAAAAJ&hl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/scholar-google.svg" alt="vijulshah-google-scholar" height="25px" /></a>
   <a href="https://www.researchgate.net/profile/Vijul-Shah-2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="vijulshah-researchgate" height="25px" /></a>
   <a href="https://orcid.org/0009-0008-5174-0793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/orc-id.svg" alt="vijulshah-orc-id" height="25px" /></a>
-</p>
+</p> -->
 
 <!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'> -->
 
