@@ -3,36 +3,29 @@
 <h1 align="left">Hi there, I'm Vijul Shah <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; font-size: 16px; text-align: justify;">
-  
-  Hello, my name is Vijul Shah and I am a master's student at RPTU Kaiserslautern, specializing in Intelligent Systems & Data Visualization and Scientific Computing.
-  Currently I'm working as a Machine Learning Engineer at Fraunhofer IAIS.<br>
+<img align='right' src="./media/octocat.png" height="230" />
+Hello, my name is Vijul Shah and I am a master's student at RPTU Kaiserslautern, specializing in Intelligent Systems & Data Visualization and Scientific Computing.
+Currently I'm working as a Machine Learning Engineer at Fraunhofer IAIS.<br><br>
 
-  With a background in Data Science, Deep Learning, and Full Stack Development, I possess a unique combination of Research and Software Engineering expertise. My passion lies in Research & Development and transforming it into engineering innovative solutions or products. Hence, I embody the skills and mindset of both an academic researcher and an engineer dedicated to developing robust industrial solutions.
-  
+With a background in Data Science, Deep Learning, and Full Stack Development, I possess a unique combination of Research and Software Engineering expertise. My passion lies in Research & Development and transforming it into engineering innovative solutions or products. Hence, I embody the skills and mindset of both an academic researcher and an engineer dedicated to developing robust industrial solutions.
 
-  - 👉 Checkout my research: <a href="https://vijulshah.github.io/">HERE</a><br>
-  - 📫 How to reach me: <a href="mailto:vijul1904shah@gmail.com">vijul1904shah@gmail.com</a><br>
-  - 📝 Save my info: <a href="https://github.com/vijulshah/vijulshah/blob/main/media/Vijul_Resume.pdf">Download Resume</a><br>
-  - ⚡ Fun fact: I love to paint 👨‍🎨 and I'm currently obsessed over cycling 🚴‍♂️<br>
-  - 💕 Like my Octocat? Create your own at <a href="https://myoctocat.com/">https://myoctocat.com/</a><br><br>
+- 👉 Checkout my research: <a href="https://vijulshah.github.io/">HERE</a><br>
+- 📫 How to reach me: <a href="mailto:vijul1904shah@gmail.com">vijul1904shah@gmail.com</a><br>
+- 📝 Save my info: <a href="https://github.com/vijulshah/vijulshah/blob/main/media/Vijul_Resume.pdf">Download Resume</a><br>
+- ⚡ Fun fact: I love to paint 👨‍🎨 and I'm currently obsessed over cycling 🚴‍♂️<br>
+- 💕 Like my Octocat? Create your own at <a href="https://myoctocat.com/">https://myoctocat.com/</a><br><br>
   
-  🔗 Connect With Me
-  <p style="align: left">
-    <a href="https://www.linkedin.com/in/vijul-shah-38a774168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijulshah-linkedin" height="25px" /></a>
-    <a href="https://x.com/vijul_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijulshah-x" height="25px" /></a>
-    <a href="https://www.kaggle.com/vijuls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijulshah-kaggle" height="25px" /></a>
-    <a href="https://medium.com/@vijulshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vijulshah-medium" height="25px" /></a>
-    <a href="/vijul_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijulshah-instagram" height="25px" /></a>
-    <a href="https://scholar.google.com/citations?user=-1r-QeMAAAAJ&hl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/scholar-google.svg" alt="vijulshah-google-scholar" height="25px" /></a>
-    <a href="https://www.researchgate.net/profile/Vijul-Shah-2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="vijulshah-researchgate" height="25px" /></a>
-    <a href="https://orcid.org/0009-0008-5174-0793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/orc-id.svg" alt="vijulshah-orc-id" height="25px" /></a>
-  </p>
-  
-  </div>
-  <img src="./media/octocat.png" style="flex: 0 0 auto; background-color: none;" height="230px"/>
-</div>
+🔗 Connect With Me
+<p style="align: left">
+  <a href="https://www.linkedin.com/in/vijul-shah-38a774168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijulshah-linkedin" height="25px" /></a>
+  <a href="https://x.com/vijul_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijulshah-x" height="25px" /></a>
+  <a href="https://www.kaggle.com/vijuls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijulshah-kaggle" height="25px" /></a>
+  <a href="https://medium.com/@vijulshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vijulshah-medium" height="25px" /></a>
+  <a href="/vijul_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijulshah-instagram" height="25px" /></a>
+  <a href="https://scholar.google.com/citations?user=-1r-QeMAAAAJ&hl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/scholar-google.svg" alt="vijulshah-google-scholar" height="25px" /></a>
+  <a href="https://www.researchgate.net/profile/Vijul-Shah-2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="vijulshah-researchgate" height="25px" /></a>
+  <a href="https://orcid.org/0009-0008-5174-0793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/orc-id.svg" alt="vijulshah-orc-id" height="25px" /></a>
+</p>
 
 <!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'> -->
 
