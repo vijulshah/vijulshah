@@ -14,7 +14,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
   - 👉 Checkout my research: <a href="https://vijulshah.github.io/">HERE</a><br>
   - 📫 How to reach me: <a href="mailto:vijul1904shah@gmail.com">vijul1904shah@gmail.com</a><br>
-  - 📝 Save my info: <a href="https://vijulshah.github.io/media/Vijul_Resume.pdf">Download Resume</a><br>
+  - 📝 Save my info: <a href="https://github.com/vijulshah/vijulshah/blob/main/media/Vijul_Resume.pdf">Download Resume</a><br>
   - ⚡ Fun fact: I love to paint 👨‍🎨 and I'm currently obsessed over cycling 🚴‍♂️<br>
   - 💕 Like my Octocat? Create your own at <a href="https://myoctocat.com/">https://myoctocat.com/</a><br><br>
   
