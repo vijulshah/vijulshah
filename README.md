@@ -293,54 +293,54 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 ## 🏹 Domain Skills
 
 - **Computer Vision**: 
-<table>
-  <tr>
-    <td align="center" width="48">
-      Object Detection
-    </td>
-    <td align="center" width="48">
-      Image Segmentation
-    </td>
-    <td align="center" width="48">
-      Image Classification
-    </td>
-    <td align="center" width="48">
-      Regression Tasks
-    </td>
-    <td align="center" width="48">
-      Image Super Resolution
-    </td>
-    <td align="center" width="48">
-      Coreset Selection
-    </td>
-    <td align="center" width="48">
-      Dataset Distillation
-    </td>
-    <td align="center" width="48">
-      And More...
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center" width="48" bgcolor="#bbdbf7">
+        Object Detection
+      </td>
+      <td align="center" width="48">
+        Image Segmentation
+      </td>
+      <td align="center" width="48" bgcolor="#bbdbf7">
+        Image Classification
+      </td>
+      <td align="center" width="48">
+        Regression Tasks
+      </td>
+      <td align="center" width="48" bgcolor="#bbdbf7">
+        Image Super Resolution
+      </td>
+      <td align="center" width="48">
+        Coreset Selection
+      </td>
+      <td align="center" width="48" bgcolor="#bbdbf7">
+        Dataset Distillation
+      </td>
+      <td align="center" width="48">
+        And More...
+      </td>
+    </tr>
+  </table>
 
 - **NLP**: 
   <table>
-  <tr>
-    <td align="center" width="200">
-      Parameter Efficient Fine Tuning (PEFT)
-    </td>
-    <td align="center" width="200">
-      Quantization and Low Rank Apdaption (Q-LoRA)
-    </td>
-    <td align="center" width="96">
-      Text Classification
-    </td>
-    <td align="center" width="96">
-      Code Generation
-    </td>
-    <td align="center" width="48">
-      And More...
-    </td>
-  </tr>
+    <tr>
+      <td align="center" width="200" bgcolor="#bbdbf7">
+        Parameter Efficient Fine Tuning (PEFT)
+      </td>
+      <td align="center" width="200">
+        Quantization and Low Rank Apdaption (Q-LoRA)
+      </td>
+      <td align="center" width="96" bgcolor="#bbdbf7">
+        Text Classification
+      </td>
+      <td align="center" width="96">
+        Code Generation
+      </td>
+      <td align="center" width="48" bgcolor="#bbdbf7">
+        And More...
+      </td>
+    </tr>
   </table>
 
 ##  📊 Github Stats
