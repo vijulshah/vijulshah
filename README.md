@@ -299,7 +299,7 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
               <img src="./media/oracle-certified-expert-java-ee-6-web-component-developer.png" alt="oracle-certified-expert-java-ee-6-web-component-developer" height="80px" style="margin-right: 20px;"/>
             </td>
             <td>
-              <h4>Oracle Certified Expert, Java EE 6 Web Component Developer</h4>
+              <h4>Oracle Certified Expert,<br>Java EE 6 Web Component Developer</h4>
             </td>
           </tr>
         </table>
@@ -313,7 +313,7 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
               <img src="./media/oracle-certified-professional-java-se-6-programmer.png" alt="oracle-certified-professional-java-se-6-programmer" height="80px" style="margin-right: 20px;"/>
             </td>
             <td>
-              <h4>Oracle Certified Professional, Java SE 6 Programmer</h4>
+              <h4>Oracle Certified Professional,<br>Java SE 6 Programmer</h4>
             </td>
           </tr>
         </table>
