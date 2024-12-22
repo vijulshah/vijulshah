@@ -289,38 +289,18 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 
 ## 🎖️ Certifications
 
-<table>
-  <tr>
-    <td align="center" width="50%" style="border-color: white">
-      <a href="https://www.credly.com/users/vijul-shah">
-        <table style="border-color: white">
-          <tr style="display: flex; align-items: center; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 2px; border-radius: 10px; border: none">
-            <td style="border-color: white">
-              <img src="./media/oracle-certified-expert-java-ee-6-web-component-developer.png" alt="oracle-certified-expert-java-ee-6-web-component-developer" height="80px" style="margin-right: 20px;"/>
-            </td>
-            <td style="border-color: white">
-              <h4>Oracle Certified Expert,<br>Java EE 6 Web Component Developer</h4>
-            </td>
-          </tr>
-        </table>
-      </a>
-    </td>
-    <td align="center" width="50%" style="border-color: white">
-      <a href="https://www.credly.com/users/vijul-shah">
-        <table style="border-color: white">
-          <tr style="display: flex; align-items: center; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 2px; border-radius: 10px; border: none">
-            <td style="border-color: white">
-              <img src="./media/oracle-certified-professional-java-se-6-programmer.png" alt="oracle-certified-professional-java-se-6-programmer" height="80px" style="margin-right: 20px;"/>
-            </td>
-            <td style="border-color: white">
-              <h4>Oracle Certified Professional,<br>Java SE 6 Programmer</h4>
-            </td>
-          </tr>
-        </table>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.credly.com/users/vijul-shah" style="width: 40%; display: inline-block; vertical-align: top; margin-right: 10px;">
+  <div style="border: 1px solid #ccc; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 5px; border-radius: 10px;">
+    <img src="./media/oracle-certified-expert-java-ee-6-web-component-developer.png" alt="oracle-certified-expert-java-ee-6-web-component-developer" height="75px" style="margin-right: 20px; float: left;"/>
+    <h4>Oracle Certified Expert,<br>Java EE 6 Web Component Developer</h4>
+  </div>
+</a>
+<a href="https://www.credly.com/users/vijul-shah" style="width: 35%; display: inline-block; vertical-align: top;">
+  <div style="border: 1px solid #ccc; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 5px; border-radius: 10px;">
+    <img src="./media/oracle-certified-professional-java-se-6-programmer.png" alt="oracle-certified-professional-java-se-6-programmer" height="75px" style="margin-right: 20px; float: left;"/>
+    <h4>Oracle Certified Professional,<br>Java SE 6 Programmer</h4>
+  </div>
+</a>
 
 ##  📊 Github Stats
 
