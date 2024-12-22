@@ -289,9 +289,26 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 
 ## 🎖️ Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="900c236f-ba5f-4dd6-9df1-046836db7074" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="057275ea-24b8-4126-9473-e332704b777e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/users/vijul-shah">
+        <div style="display: flex; align-items: center; border: 1px solid #ccc; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 10px; border-radius: 10px;">
+          <img src="./media/oracle-certified-expert-java-ee-6-web-component-developer.png" alt="oracle-certified-expert-java-ee-6-web-component-developer" height="80px" style="margin-right: 20px;"/>
+          <h4>Oracle Certified Expert, Java EE 6 Web Component Developer</h4>
+        </div>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/users/vijul-shah">
+        <div style="display: flex; align-items: center; border: 1px solid #ccc; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 10px; border-radius: 10px;">
+          <img src="./media/oracle-certified-professional-java-se-6-programmer.png" alt="oracle-certified-professional-java-se-6-programmer" height="80px" style="margin-right: 20px;"/>
+          <h4>Oracle Certified Professional, Java SE 6 Programmer</h4>
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ##  📊 Github Stats
 
