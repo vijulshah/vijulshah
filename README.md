@@ -140,13 +140,13 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
     </td>
     <td align="center" width="96">
       <a href="" target="_blank">
-        <img src="./media/C.svg" alt="C" height="42px"/>
+        <img src="./media/c.svg" alt="C" height="42px"/>
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="" target="_blank">
-        <img src="./media/C++.svg" alt="C++" height="42px"/>
+        <img src="./media/c++.svg" alt="C++" height="42px"/>
       </a>
       <br>C++
     </td>
