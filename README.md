@@ -128,13 +128,13 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
     </td>
     <td align="center" width="96">
       <a href="" target="_blank">
-        <img src="./media/SQL.svg" alt="SQL" height="42px"/>
+        <img src="./media/sql.svg" alt="SQL" height="42px"/>
       </a>
       <br>SQL
     </td>
     <td align="center" width="96">
       <a href="" target="_blank">
-        <img src="./media/R.svg" alt="R" height="42px"/>
+        <img src="./media/r.svg" alt="R" height="42px"/>
       </a>
       <br>R
     </td>
@@ -171,13 +171,13 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
     </td>
     <td align="center" width="96">
       <a href="" target="_blank">
-        <img src="./media/Numpy.svg" alt="Numpy" height="42px"/>
+        <img src="./media/numpy.svg" alt="Numpy" height="42px"/>
       </a>
       <br>Numpy
     </td>
     <td align="center" width="96">
       <a href="" target="_blank">
-        <img src="./media/Pandas.svg" alt="Pandas" height="42px"/>
+        <img src="./media/pandas.svg" alt="Pandas" height="42px"/>
       </a>
       <br>Pandas
     </td>
@@ -209,13 +209,13 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
     </td>
     <td align="center" width="96">
       <a href="" target="_blank">
-        <img src="./media/Huggingface.svg" alt="Huggingface" height="42px"/>
+        <img src="./media/hugging-face.svg" alt="Huggingface" height="42px"/>
       </a>
       <br>Huggingface
     </td>
     <td align="center" width="96">
       <a href="" target="_blank">
-        <img src="./media/Accelerate.svg" alt="Accelerate" height="42px"/>
+        <img src="./media/hugging-face.svg" alt="Accelerate" height="42px"/>
       </a>
       <br>Accelerate
     </td>
@@ -233,13 +233,13 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
     </td>
     <td align="center" width="96">
       <a href="" target="_blank">
-        <img src="./media/MLFlow.svg" alt="MLFlow" height="42px"/>
+        <img src="./media/mlflow.svg" alt="MLFlow" height="42px"/>
       </a>
       <br>MLFlow
     </td>
     <td align="center" width="96">
       <a href="" target="_blank">
-        <img src="./media/WnB.svg" alt="WnB" height="42px"/>
+        <img src="./media/weightsandbiases.svg" alt="WnB" height="42px"/>
       </a>
       <br>Weights and Biases
     </td>
@@ -265,7 +265,7 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
     </td>
     <td align="center" width="96">
       <a href="" target="_blank">
-        <img src="./media/Flask.svg" alt="Flask" height="42px"/>
+        <img src="./media/flask.svg" alt="Flask" height="42px"/>
       </a>
       <br>Flask
     </td>
@@ -295,25 +295,25 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 - **Computer Vision**: 
   <table>
     <tr>
-      <td align="center" width="48" bgcolor="#bbdbf7">
+      <td align="center" width="48">
         Object Detection
       </td>
       <td align="center" width="48">
         Image Segmentation
       </td>
-      <td align="center" width="48" bgcolor="#bbdbf7">
+      <td align="center" width="48">
         Image Classification
       </td>
       <td align="center" width="48">
         Regression Tasks
       </td>
-      <td align="center" width="48" bgcolor="#bbdbf7">
+      <td align="center" width="48">
         Image Super Resolution
       </td>
       <td align="center" width="48">
         Coreset Selection
       </td>
-      <td align="center" width="48" bgcolor="#bbdbf7">
+      <td align="center" width="48">
         Dataset Distillation
       </td>
       <td align="center" width="48">
@@ -325,19 +325,19 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 - **NLP**: 
   <table>
     <tr>
-      <td align="center" width="200" bgcolor="#bbdbf7">
+      <td align="center" width="200">
         Parameter Efficient Fine Tuning (PEFT)
       </td>
       <td align="center" width="200">
         Quantization and Low Rank Apdaption (Q-LoRA)
       </td>
-      <td align="center" width="96" bgcolor="#bbdbf7">
+      <td align="center" width="96">
         Text Classification
       </td>
       <td align="center" width="96">
         Code Generation
       </td>
-      <td align="center" width="48" bgcolor="#bbdbf7">
+      <td align="center" width="48">
         And More...
       </td>
     </tr>
