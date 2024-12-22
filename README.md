@@ -195,7 +195,7 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
     </td>
     <td align="center" width="96">
       <a href="" target="_blank">
-        <img src="./media/Streamlit.svg" alt="Streamlit" height="42px"/>
+        <img src="./media/streamlit.svg" alt="Streamlit" height="42px"/>
       </a>
       <br>Streamlit
     </td>
