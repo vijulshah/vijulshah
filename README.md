@@ -290,16 +290,16 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 ## 🎖️ Certifications
 
 <a href="https://www.credly.com/users/vijul-shah">
-  <div style="display: flex; align-items: center; border: 1px solid #ccc; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 10px; border-radius: 10px;">
-    <img src="./media/oracle-certified-expert-java-ee-6-web-component-developer.png" alt="oracle-certified-expert-java-ee-6-web-component-developer" height="80px" style="margin-right: 20px;"/>
-    <h3>Oracle Certified Expert, Java EE 6 Web Component Developer</h3>
+  <div style="display: flex; align-items: center; border: 1px solid rgba(0,0,0,0.3); box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 10px; border-radius: 10px;">
+    <img src="./media/oracle-certified-expert-java-ee-6-web-component-developer.png" alt="oracle-certified-expert-java-ee-6-web-component-developer" height="80px" style="margin-right: 20px; vertical-align: middle;"/>
+    <h3 style="vertical-align: middle;">Oracle Certified Expert, Java EE 6 Web Component Developer</h3>
   </div>
 </a>
 <br>
 <a href="https://www.credly.com/users/vijul-shah">
-  <div style="display: flex; align-items: center; border: 1px solid #ccc; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 10px; border-radius: 10px;">
-    <img src="./media/oracle-certified-professional-java-se-6-programmer.png" alt="oracle-certified-professional-java-se-6-programmer" height="80px" style="margin-right: 20px;"/>
-    <h3>Oracle Certified Professional, Java SE 6 Programmer</h3>
+  <div style="display: flex; align-items: center; border: 1px solid rgba(0,0,0,0.3); box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 10px; border-radius: 10px;">
+    <img src="./media/oracle-certified-professional-java-se-6-programmer.png" alt="oracle-certified-professional-java-se-6-programmer" height="80px" style="margin-right: 20px; vertical-align: middle;"/>
+    <h3 style="vertical-align: middle;">Oracle Certified Professional, Java SE 6 Programmer</h3>
   </div>
 </a>
 
