@@ -289,16 +289,17 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 
 ## 🎖️ Certifications
 
-<a href="https://www.credly.com/users/vijul-shah" style="width: 40%; display: inline-block; vertical-align: top; margin-right: 10px;">
-  <div style="border: 1px solid #ccc; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 5px; border-radius: 10px;">
-    <img src="./media/oracle-certified-expert-java-ee-6-web-component-developer.png" alt="oracle-certified-expert-java-ee-6-web-component-developer" height="75px" style="margin-right: 20px; float: left;"/>
-    <h4>Oracle Certified Expert,<br>Java EE 6 Web Component Developer</h4>
+<a href="https://www.credly.com/users/vijul-shah">
+  <div style="display: flex; align-items: center; border: 1px solid #ccc; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 10px; border-radius: 10px;">
+    <img src="./media/oracle-certified-expert-java-ee-6-web-component-developer.png" alt="oracle-certified-expert-java-ee-6-web-component-developer" height="80px" style="margin-right: 20px;"/>
+    <h3>Oracle Certified Expert, Java EE 6 Web Component Developer</h3>
   </div>
 </a>
-<a href="https://www.credly.com/users/vijul-shah" style="width: 35%; display: inline-block; vertical-align: top;">
-  <div style="border: 1px solid #ccc; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 5px; border-radius: 10px;">
-    <img src="./media/oracle-certified-professional-java-se-6-programmer.png" alt="oracle-certified-professional-java-se-6-programmer" height="75px" style="margin-right: 20px; float: left;"/>
-    <h4>Oracle Certified Professional,<br>Java SE 6 Programmer</h4>
+<br>
+<a href="https://www.credly.com/users/vijul-shah">
+  <div style="display: flex; align-items: center; border: 1px solid #ccc; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 10px; border-radius: 10px;">
+    <img src="./media/oracle-certified-professional-java-se-6-programmer.png" alt="oracle-certified-professional-java-se-6-programmer" height="80px" style="margin-right: 20px;"/>
+    <h3>Oracle Certified Professional, Java SE 6 Programmer</h3>
   </div>
 </a>
 
