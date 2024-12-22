@@ -186,7 +186,7 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
       <br>Accelerate
     </td>
     <td align="center" width="96">
-      <img src="./media/Captum.svg" alt="Captum" height="42px"/>
+      <img src="./media/captum.svg" alt="Captum" height="42px"/>
       <br>Captum
     </td>
     <td align="center" width="96">
