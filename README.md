@@ -174,7 +174,7 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="./media/pytorch-lightning.svg" alt="Pytorch-Lightning" height="42px"/>
+      <img src="./media/pytorch-lightning.png" alt="Pytorch-Lightning" height="42px"/>
       <br>Pytorch-Lightning
     </td>
     <td align="center" width="96">
