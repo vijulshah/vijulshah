@@ -289,19 +289,35 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 
 ## 🎖️ Certifications
 
-<a href="https://www.credly.com/users/vijul-shah">
-  <div style="border: 1px solid rgba(0,0,0,0.3); box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 10px; border-radius: 10px;">
-    <img src="./media/oracle-certified-expert-java-ee-6-web-component-developer.png" alt="oracle-certified-expert-java-ee-6-web-component-developer" height="80px" style="margin-right: 20px; vertical-align: middle; float: left;"/>
-    <h3 style="vertical-align: middle;">Oracle Certified Expert, Java EE 6 Web Component Developer</h3>
-  </div>
-</a>
+<table>
+  <tr>
+    <td align="left" width="100">
+      <a href="https://www.credly.com/users/vijul-shah">
+        <img src="./media/oracle-certified-expert-java-ee-6-web-component-developer.png" alt="oracle-certified-expert-java-ee-6-web-component-developer" height="80px"/>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://www.credly.com/users/vijul-shah">
+        <h3>Oracle Certified Expert, Java EE 6 Web Component Developer</h3>
+      </a>
+    </td>
+  </tr>
+</table>
 <br>
-<a href="https://www.credly.com/users/vijul-shah">
-  <div style="border: 1px solid rgba(0,0,0,0.3); box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 10px; border-radius: 10px;">
-    <img src="./media/oracle-certified-professional-java-se-6-programmer.png" alt="oracle-certified-professional-java-se-6-programmer" height="80px" style="margin-right: 20px; float: left;"/>
-    <h3 style="vertical-align: middle;">Oracle Certified Professional, Java SE 6 Programmer</h3>
-  </div>
-</a>
+<table>
+  <tr>
+    <td align="left" width="100">
+      <a href="https://www.credly.com/users/vijul-shah">
+        <img src="./media/oracle-certified-professional-java-se-6-programmer.png" alt="oracle-certified-professional-java-se-6-programmer" height="80px"/>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://www.credly.com/users/vijul-shah">
+        <h3>Oracle Certified Professional, Java SE 6 Programmer</h3>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ##  📊 Github Stats
 
