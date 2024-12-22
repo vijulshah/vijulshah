@@ -303,7 +303,7 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
     </td>
   </tr>
 </table>
-<br>
+
 <table>
   <tr>
     <td align="left" width="100">
