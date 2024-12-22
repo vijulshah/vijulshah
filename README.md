@@ -288,18 +288,39 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
   </table>
 
 ## 🎖️ Certifications
-<a href="https://www.credly.com/users/vijul-shah" style="text-decoration: none;">
-  <div style="display: inline-block; border: 1px solid #000; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 5px; border-radius: 10px; margin-right: 20px;">
-    <img src="./media/oracle-certified-expert-java-ee-6-web-component-developer.png" alt="oracle-certified-expert-java-ee-6-web-component-developer" height="80px" style="margin-right: 20px;"/>
-    <h4>Oracle Certified Expert,<br>Java EE 6 Web Component Developer</h4>
-  </div>
-</a>
-<a href="https://www.credly.com/users/vijul-shah" style="text-decoration: none;">
-  <div style="display: inline-block; border: 1px solid #000; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 5px; border-radius: 10px;">
-    <img src="./media/oracle-certified-professional-java-se-6-programmer.png" alt="oracle-certified-professional-java-se-6-programmer" height="80px" style="margin-right: 20px;"/>
-    <h4>Oracle Certified Professional,<br>Java SE 6 Programmer</h4>
-  </div>
-</a>
+
+<table>
+  <tr style="border: none">
+    <td align="center" width="50%" style="border: none">
+      <a href="https://www.credly.com/users/vijul-shah">
+        <table>
+          <tr style="display: flex; align-items: center; border: 1px solid #ccc; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 2px; border-radius: 10px;">
+            <td style="border: none">
+              <img src="./media/oracle-certified-expert-java-ee-6-web-component-developer.png" alt="oracle-certified-expert-java-ee-6-web-component-developer" height="80px" style="margin-right: 20px;"/>
+            </td>
+            <td style="border: none">
+              <h4>Oracle Certified Expert,<br>Java EE 6 Web Component Developer</h4>
+            </td>
+          </tr>
+        </table>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/users/vijul-shah">
+        <table>
+          <tr style="display: flex; align-items: center; border: 1px solid #ccc; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); padding: 2px; border-radius: 10px;">
+            <td style="border: none">
+              <img src="./media/oracle-certified-professional-java-se-6-programmer.png" alt="oracle-certified-professional-java-se-6-programmer" height="80px" style="margin-right: 20px;"/>
+            </td>
+            <td style="border: none">
+              <h4>Oracle Certified Professional,<br>Java SE 6 Programmer</h4>
+            </td>
+          </tr>
+        </table>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ##  📊 Github Stats
 
