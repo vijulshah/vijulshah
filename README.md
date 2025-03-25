@@ -5,7 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <img align='right' src="./media/octocat.png" height="230" />
 Hello, my name is Vijul Shah and I am a master's graduate from RPTU Kaiserslautern with a specialization in Intelligent Systems & Data Visualization and Scientific Computing.
-Currently, I'm working as a Machine Learning Engineer at Fraunhofer IAIS.<br><br>
+Currently, I'm working as a Data Scientist at Fraunhofer IAIS.<br><br>
 
 With a background in Data Science, Deep Learning, and Full Stack Development, I possess a unique combination of Research and Software Engineering expertise. My passion lies in Research & Development and transforming it into engineering innovative solutions or products. Hence, I embody the skills and mindset of both an academic researcher and a software engineer, dedicated to developing end to end and robust industrial solutions.
 
@@ -97,7 +97,8 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 ## 💼 My Career
 | From | To | Role | At | Location
 |:------- |:--------|:----------------------------------------|:-----------------------------------------------------------------|:----------------|
-| Dec 2022 | Current | Machine Learning Engineer |[Fraunhofer IAIS](https://www.iais.fraunhofer.de/) | [Sankt Augustin, Germany](https://g.co/kgs/hxXM6rx)
+| Apr 2025| Current | Data Scientist |[Fraunhofer IAIS](https://www.iais.fraunhofer.de/) | [Sankt Augustin, Germany](https://g.co/kgs/hxXM6rx)
+| Dec 2022 | Mar 2024 | Machine Learning Engineer |[Fraunhofer IAIS](https://www.iais.fraunhofer.de/) | [Sankt Augustin, Germany](https://g.co/kgs/hxXM6rx)
 | April 2022 | Aug 2022 | Research Assistant |[DFKI](https://www.dfki.de/web/) | [Kaiserslautern, Germany](https://g.co/kgs/N6JHi2E)
 | Oct 2021 | Dec 2024 | Masters in Computer Science |[RPTU](https://rptu.de/) | [Kaiserslautern, Germany](https://g.co/kgs/N6JHi2E)
 | Aug 2020 | Sept 2021 | Full Stack Developer |[Bonds India](https://www.bondsindia.com/) | [New Delhi, India](https://g.co/kgs/kSk798v)
