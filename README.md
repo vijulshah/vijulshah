@@ -11,7 +11,6 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 
 - 👉 Checkout my research: <a href="https://vijulshah.github.io/" target="_blank">HERE</a><br>
 - 📫 How to reach me: <a href="mailto:vijul1904shah@gmail.com" target="_blank">vijul1904shah@gmail.com</a><br>
-- 📝 Save my info: <a href="https://github.com/vijulshah/vijulshah/blob/main/media/CV_Vijul_Shah.pdf" target="_blank">Download Resume</a><br>
 - ⚡ Fun fact: I love to paint 👨‍🎨 and I'm currently obsessed over cycling 🚴‍♂️<br>
 - 💕 Like my Octocat? Create your own at <a href="https://myoctocat.com/" target="_blank">https://myoctocat.com/</a><br><br>
   
@@ -271,10 +270,13 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
   <table>
     <tr>
       <td align="center" width="200">
+        Retrieval-Augmented Generation (RAG)
+      </td>
+      <td align="center" width="200">
         Parameter Efficient Fine Tuning (PEFT)
       </td>
       <td align="center" width="200">
-        Quantization and Low Rank Apdaption (Q-LoRA)
+        Quantization and Low Rank Adaptation (Q-LoRA)
       </td>
       <td align="center" width="96">
         Text Classification
