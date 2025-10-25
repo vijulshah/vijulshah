@@ -5,7 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <img align='right' src="./media/octocat.png" height="230" />
 Hello, my name is Vijul Shah, and I am a master's graduate with a specialization in Intelligent Systems & Data Visualization and Scientific Computing.
-I have expertise in building softwares, agentic solutions, developing and training Machine Learning and Deep Learning Models, and muc more...<br><br>
+I have expertise in building softwares, agentic solutions, developing and training Machine Learning and Deep Learning Models, and much more...<br><br>
 
 With a background in Data Science, Deep Learning, and Full Stack Development, I possess a unique combination of Research and Software Engineering expertise. My passion lies in Research & Development and transforming it into engineering innovative solutions or products. Hence, I embody the skills and mindset of both an academic researcher and a software engineer, dedicated to developing end to end and robust industrial solutions.
 
