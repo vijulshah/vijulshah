@@ -4,8 +4,8 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <img align='right' src="./media/octocat.png" height="230" />
-Hello, my name is Vijul Shah and I am a master's graduate from RPTU Kaiserslautern with a specialization in Intelligent Systems & Data Visualization and Scientific Computing.
-Currently, I'm working as a Data Scientist at Fraunhofer IAIS.<br><br>
+Hello, my name is Vijul Shah, and I am a master's graduate with a specialization in Intelligent Systems & Data Visualization and Scientific Computing.
+I have expertise in building softwares, agentic solutions, developing and training Machine Learning and Deep Learning Models, and muc more...<br><br>
 
 With a background in Data Science, Deep Learning, and Full Stack Development, I possess a unique combination of Research and Software Engineering expertise. My passion lies in Research & Development and transforming it into engineering innovative solutions or products. Hence, I embody the skills and mindset of both an academic researcher and a software engineer, dedicated to developing end to end and robust industrial solutions.
 
@@ -96,7 +96,7 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 ## 💼 My Career
 | From | To | Role | At | Location
 |:------- |:--------|:----------------------------------------|:-----------------------------------------------------------------|:----------------|
-| September 2025| Current | Software Engineer |[NatWest Group](https://www.natwestgroup.com/) | [Gurugram, India](https://g.co/kgs/hxXM6rx)
+| September 2025| Current | Software Engineer |[NatWest Group](https://www.natwestgroup.com/) | [Gurugram, India](https://maps.app.goo.gl/38sV7zxxXVQBbn44A)
 | April 2025| August 2025 | Data Scientist |[Fraunhofer IAIS](https://www.iais.fraunhofer.de/) | [Sankt Augustin, Germany](https://g.co/kgs/hxXM6rx)
 | Dec 2022 | March 2025 | Machine Learning Engineer |[Fraunhofer IAIS](https://www.iais.fraunhofer.de/) | [Sankt Augustin, Germany](https://g.co/kgs/hxXM6rx)
 | April 2022 | Aug 2022 | Research Assistant |[DFKI](https://www.dfki.de/web/) | [Kaiserslautern, Germany](https://g.co/kgs/N6JHi2E)
