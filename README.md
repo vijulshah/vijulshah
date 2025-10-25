@@ -96,7 +96,8 @@ With a background in Data Science, Deep Learning, and Full Stack Development, I 
 ## 💼 My Career
 | From | To | Role | At | Location
 |:------- |:--------|:----------------------------------------|:-----------------------------------------------------------------|:----------------|
-| April 2025| Current | Data Scientist |[Fraunhofer IAIS](https://www.iais.fraunhofer.de/) | [Sankt Augustin, Germany](https://g.co/kgs/hxXM6rx)
+| September 2025| Current | Software Engineer |[NatWest Group](https://www.natwestgroup.com/) | [Gurugram, India](https://g.co/kgs/hxXM6rx)
+| April 2025| August 2025 | Data Scientist |[Fraunhofer IAIS](https://www.iais.fraunhofer.de/) | [Sankt Augustin, Germany](https://g.co/kgs/hxXM6rx)
 | Dec 2022 | March 2025 | Machine Learning Engineer |[Fraunhofer IAIS](https://www.iais.fraunhofer.de/) | [Sankt Augustin, Germany](https://g.co/kgs/hxXM6rx)
 | April 2022 | Aug 2022 | Research Assistant |[DFKI](https://www.dfki.de/web/) | [Kaiserslautern, Germany](https://g.co/kgs/N6JHi2E)
 | Oct 2021 | Dec 2024 | Masters in Computer Science |[RPTU](https://rptu.de/) | [Kaiserslautern, Germany](https://g.co/kgs/N6JHi2E)
